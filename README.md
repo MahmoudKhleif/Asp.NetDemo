@@ -1,2 +1,2 @@
 # Asp.NetDemo
-Asp.net web API Demo with database
+Asp.net Core Web API Demo with database
